@@ -1,0 +1,1 @@
+# Dynamic_Programming_Matrix_Chain_Multiplication_Optimal_Number_Of_Mult_And_Ordering_cs335_fall_2017
